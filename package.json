@@ -1,0 +1,23 @@
+{
+  "name": "simplenote-export-with-date",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parse-source-json.js",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/README1ST/simplenote-export-with-date.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/README1ST/simplenote-export-with-date/issues"
+  },
+  "homepage": "https://github.com/README1ST/simplenote-export-with-date#readme"
+}
