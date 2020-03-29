@@ -8,6 +8,7 @@ This work is a tweak of a similar script but for Standard Notes, that code can b
 ## Usage:
 
 ```bash
+npm install
 node simplenote-to-enex.js <Path to Simplenote JSON export>
 ```
 
