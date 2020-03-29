@@ -13,5 +13,5 @@ node simplenote-to-enex.js <Path to Simplenote JSON export>
 
 ## Issues:
 
-1. I ran into an `Import Error: MISSING_NOTE_TITLE` issue when trying to import the created ENEX files into Evernote. I haven't fixed this but I found it affected a very small amount of notes. I have raised this edge case as an issue here.
+1. I ran into an `Import Error: MISSING_NOTE_TITLE` issue when trying to import the created ENEX files into Evernote. I haven't fixed this but I found it affected a very small amount of notes. I have raised this edge case as an issue here: [#1](https://github.com/README1ST/simplenote-to-joplin-or-evernote/issues/1).
 2. I did not need to transfer tags from Simplenote but that could be done with some work... PRs Welcome!
